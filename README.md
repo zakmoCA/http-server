@@ -3,6 +3,8 @@
 This server listens for HTTP requests on localhost at port 8080 and responds with a basic HTTP response.
 I used this program to learn a little about socket programming and the TCP/IP protocol.
 
+*** Still have plans to turn this into a real web server and not simply listen for HTTP requests, reigniting project.
+
 ## Program Components
 
 - The main function orchestrates the server lifecycle. It starts with the setup and then enters loop that manages incoming connections.
